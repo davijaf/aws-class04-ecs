@@ -1,0 +1,17 @@
+# Mantem o contexto enxuto — so o JAR de target/ entra na imagem
+.git
+.gitignore
+src
+.mvn
+mvnw
+mvnw.cmd
+pom.xml
+*.md
+.env
+*.pem
+target/classes
+target/test-classes
+target/generated-sources
+target/maven-archiver
+target/maven-status
+target/*.jar.original
